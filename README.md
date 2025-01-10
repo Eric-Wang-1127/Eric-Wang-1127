@@ -45,7 +45,7 @@ I'm a student in china so I can't speak english well. If you can't understand my
 e-mail：ericwang1127@outlook.com     
 GitHub：[Eric-Wang-1127](https://github.com/Eric-Wang-1127)
 
-#捐款
+#贡献
 
 我喜欢在开源项目上合作并为社区做出贡献，但我现在还没有在Github上做任何项目。所以我想我应该多练习。
 
